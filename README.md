@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakmapur Yogesh</h1>
 <h2 align="center">A Passionate Full-Stack Developer & Problem Solver from India 💻</h2>
 
-Motivated Computer Science Engineer with hands-on experience in building **full-stack applications** using Java, Spring Boot, MySQL, and React. Solved **300+ DSA problems on LeetCode (Top 91 percentile)**, showcasing strong problem-solving and analytical skills. Passionate about **backend scalability, RESTful APIs, and frontend performance optimization**. Constantly exploring **System Design, Cloud Platforms, and Microservices Architecture** to grow as a versatile software engineer.
+Motivated Computer Science Engineer with hands-on experience in building **full-stack applications** using Java, Spring Boot, MySQL, and React. Solved **450+ DSA problems on LeetCode (Top  88% percentile)**, showcasing strong problem-solving and analytical skills. Passionate about **backend scalability, RESTful APIs, and frontend performance optimization**. Constantly exploring **System Design, Cloud Platforms, and Microservices Architecture** to grow as a versatile software engineer.
 
 - 📫 Reach me at **lakmapuryogesh@gmail.com**  
 - 🌐 My portfolio: [Portfolio Website](https://portfolio-sigma-three-98.vercel.app/)  
